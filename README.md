@@ -4,7 +4,7 @@
 
 I am Jiaxi Lv, also known by my Cantonese name, GaaHey Leoi.
 
-- 🔭 I am currently at the University of Chinese Academy of Sciences (UCAS), pursuing research under the guidance of Associate Professors Chen Shifeng and Dong Chao.
+- 🔭 I am currently at the University of Chinese Academy of Sciences (UCAS), pursuing research under the guidance of Prof. Dong Chao and Chen Shifeng.
 - 🎓 I obtained my bachelor's degree from Xidian University and was recommended for graduate studies at the UCAS as the *No.1* student in my major.
 - 👀 My research interests include:
   * Video diffusion models (with an emphasis on physical rules).
